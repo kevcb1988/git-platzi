@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    width: 960px;
+    margin: 64px auto;
+}
+
+.container h2{
+    font-size: 2em;
+}
